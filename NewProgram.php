@@ -2,9 +2,9 @@
 <HTML>
   <head>
     <meta charset="utf-8">
-    <meta name= "description" content="Fahrettin baştürk blog.">
-    <meta name ="author" content="Fahrettin">
-    <meta name ="keywords" content= "Fahrettin Baştürk, Astroloji, Tarot">
+    <meta name= "description" content="ferivonus blog.">
+    <meta name ="author" content="ferivonus">
+    <meta name ="keywords" content= "ferivonus , Astroloji, Tarot">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> My Blog's Homepage </title>
     <link rel="stylesheet" type="text/css" href="css/newmyCss.css?<?php echo time(); ?>">
